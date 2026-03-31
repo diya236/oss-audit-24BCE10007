@@ -12,8 +12,6 @@ VLC Media Player
 This project demonstrates an Open Source Software Audit using Linux Bash scripts.  
 It focuses on system information, package management, file auditing, log analysis, and open-source philosophy.
 
----
-
 ## Scripts Description
 
 ### Script 1: System Identity Report
@@ -30,8 +28,6 @@ Searches for keywords in log files and counts occurrences to help in debugging.
 
 ### Script 5: Open Source Manifesto Generator
 Takes user input and generates a personalized open-source manifesto.
-
----
 
 ## How to Run the Scripts
 
